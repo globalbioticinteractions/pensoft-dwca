@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/globalbioticinteractions/pensoft-dwca.svg)](https://travis-ci.org/globalbioticinteractions/pensoft-dwca) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/pensoft-dwca)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/pensoft-dwca) 
 
-## Pensoft Darwin Core Archives with Associated Taxa
+## Pensoft Darwin Core Archives with Associated Taxa fields
 
 https://symbiota.pensoft-dwca.edu/
 
