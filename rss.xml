@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+	xmlns:ipt="http://ipt.gbif.org/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+  <channel>
+    <title>Pensoft Darwin Core Archives with associatedTaxa columns</title>
+    <link>https://github.com/globalbioticinteractions/pensoft-dwca</link>
+    <atom:link href="https://raw.githubusercontent.com/globalbioticinteractions/pensoft-dwca/master/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Pensoft Darwin Core Archives with associatedTaxa columns</description>
+    <language>en-us</language>
+      <!-- RFC-822 date-time / Wed, 02 Oct 2010 13:00:00 GMT -->
+      <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
+      <lastBuildDate>Mon, 20 Apr 2020 18:16:00 +0000</lastBuildDate>
+      <!-- UUID of the IPT making RSS feed available -->
+      <ipt:identifier>cadc96a0-832a-11ea-8819-174667013c68</ipt:identifier>
+      <item>
+        <title>Global database of alien macrofungi. v1.2. CIBIO (Research Center in Biodiversity and Genetic Resources) Portugal. Dataset/Checklist.</title>
+        <link>http://ipt.gbif.pt/ipt/resource?r=global_database_of_alien_macrofungi</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Init</description>
+        <author>Monteiro M, Reino L, Schertler A, Essl F, Ferreira M T, Figueira R, Capinha C</author>
+        <ipt:eml>http://ipt.gbif.pt/ipt/eml.do?r=global_database_of_alien_macrofungi</ipt:eml>
+        <ipt:dwca>http://ipt.gbif.pt/ipt/archive.do?r=global_database_of_alien_macrofungi</ipt:dwca>
+        <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
+        <guid isPermaLink="false">http://ipt.gbif.pt/ipt/eml.do?r=global_database_of_alien_macrofungi</guid>
+      </item>
+			<item>
+        <title>Deer Creek Riparian Restoration Ecological Monitoring. v1.6. Kathryn Kalmbach Herbarium (Denver Botanic Gardens). Dataset/Samplingevent.</title>
+        <link>http://ipt.vertnet.org:8080/ipt/resource?r=dbg_chatfieldfarms_riparianrestoration</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Init</description>
+        <author>Levy R, Hufft R, Paces M</author>
+        <ipt:eml>http://ipt.vertnet.org:8080/ipt/eml.do?r=dbg_chatfieldfarms_riparianrestoration</ipt:eml>
+        <ipt:dwca>http://ipt.vertnet.org:8080/ipt/archive.do?r=dbg_chatfieldfarms_riparianrestoration</ipt:dwca>
+        <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
+        <guid isPermaLink="false">http://ipt.vertnet.org:8080/ipt/eml.do?r=dbg_chatfieldfarms_riparianrestoration</guid>
+      </item>
+			<item>
+        <title>My naturesounds - nature observations with sound recordings. v1.14. PlutoF. Dataset/Occurrence. </title>
+        <link>https://plutof.ut.ee/ipt/resource?r=naturesound</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Init</description>
+        <author>Runnel V</author>
+        <ipt:eml>https://plutof.ut.ee/ipt/eml.do?r=naturesound</ipt:eml>
+        <ipt:dwca>https://plutof.ut.ee/ipt/archive.do?r=naturesound</ipt:dwca>
+        <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
+        <guid isPermaLink="false">https://plutof.ut.ee/ipt/eml.do?r=naturesound</guid>
+      </item>
+			<item>
+        <title>USBombus, contemporary survey data of North American bumble bees (Hymenoptera, Apidae, Bombus) distributed in the United States</title>
+        <link>http://ipt.pensoft.net/resource?r=usbombus</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Init</description>
+        <author>Koch JB, Cordes N, Solter LF, Griswold TL, Ikerd HW, Cameron SA, Lozier JD, Strange JP, Stewart I</author>
+        <ipt:eml>http://ipt.pensoft.net/eml.do?r=usbombus</ipt:eml>
+        <ipt:dwca>http://ipt.pensoft.net/archive.do?r=usbombus</ipt:dwca>
+        <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
+        <guid isPermaLink="false">http://ipt.pensoft.net/eml.do?r=usbombus</guid>
+      </item>
+			<item>
+        <title>Harvestmen of French Guiana</title>
+        <link>http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana</link>
+        <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
+        <description>Init</description>
+        <author>Cally S, Solbes P, Grosso B, Murienne J</author>
+        <ipt:eml>http://130.120.204.55:8080/ipt/eml.do?r=harvestmen_of_french_guiana</ipt:eml>
+        <ipt:dwca>http://130.120.204.55:8080/ipt/archive.do?r=harvestmen_of_french_guiana</ipt:dwca>
+        <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
+        <guid isPermaLink="false">http://130.120.204.55:8080/ipt/eml.do?r=harvestmen_of_french_guiana</guid>
+      </item>
+  </channel>
+</rss>

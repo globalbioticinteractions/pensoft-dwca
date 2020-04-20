@@ -1,0 +1,8 @@
+{ 
+  "format": "rss",
+  "citation": "Pensoft Darwin Core Archives with associateTaxa columns",
+  "resources": {
+    "rss": "rss.xml"
+  },
+  "shouldResolveReferences": false
+}
