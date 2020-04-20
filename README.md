@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/globalbioticinteractions/pensoft-dwca.svg)](https://travis-ci.org/globalbioticinteractions/pensoft-dwca) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/pensoft-dwca)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/pensoft-dwca) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/pensoft-dwca.svg)](https://travis-ci.com/globalbioticinteractions/pensoft-dwca) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/pensoft-dwca)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/pensoft-dwca) 
 
 ## Pensoft Darwin Core Archives with Associated Taxa fields
 
