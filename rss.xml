@@ -25,7 +25,7 @@
         <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
         <guid isPermaLink="false">http://ipt.gbif.pt/ipt/eml.do?r=global_database_of_alien_macrofungi</guid>
       </item>
-			<item>
+      <item>
         <title>Deer Creek Riparian Restoration Ecological Monitoring. v1.6. Kathryn Kalmbach Herbarium (Denver Botanic Gardens). Dataset/Samplingevent.</title>
         <link>http://ipt.vertnet.org:8080/ipt/resource?r=dbg_chatfieldfarms_riparianrestoration</link>
         <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
@@ -36,7 +36,7 @@
         <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
         <guid isPermaLink="false">http://ipt.vertnet.org:8080/ipt/eml.do?r=dbg_chatfieldfarms_riparianrestoration</guid>
       </item>
-			<item>
+      <item>
         <title>My naturesounds - nature observations with sound recordings. v1.14. PlutoF. Dataset/Occurrence. </title>
         <link>https://plutof.ut.ee/ipt/resource?r=naturesound</link>
         <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
@@ -47,7 +47,7 @@
         <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
         <guid isPermaLink="false">https://plutof.ut.ee/ipt/eml.do?r=naturesound</guid>
       </item>
-			<item>
+      <item>
         <title>USBombus, contemporary survey data of North American bumble bees (Hymenoptera, Apidae, Bombus) distributed in the United States</title>
         <link>http://ipt.pensoft.net/resource?r=usbombus</link>
         <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
@@ -58,7 +58,7 @@
         <pubDate>Mon, 20 Apr 2020 18:16:00 +0000</pubDate>
         <guid isPermaLink="false">http://ipt.pensoft.net/eml.do?r=usbombus</guid>
       </item>
-			<item>
+      <item>
         <title>Harvestmen of French Guiana</title>
         <link>http://130.120.204.55:8080/ipt/resource.do?r=harvestmen_of_french_guiana</link>
         <!-- shows what changed in this version, or shows the resource description if change summary was empty -->
