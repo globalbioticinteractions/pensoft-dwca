@@ -6,7 +6,7 @@
   <channel>
     <title>Pensoft Darwin Core Archives with associatedTaxa columns</title>
     <link>https://github.com/globalbioticinteractions/pensoft-dwca</link>
-    <atom:link href="https://raw.githubusercontent.com/globalbioticinteractions/pensoft-dwca/master/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://raw.githubusercontent.com/globalbioticinteractions/pensoft-dwca/main/rss.xml" rel="self" type="application/rss+xml" />
     <description>Pensoft Darwin Core Archives with associatedTaxa columns</description>
     <language>en-us</language>
       <!-- RFC-822 date-time / Wed, 02 Oct 2010 13:00:00 GMT -->
